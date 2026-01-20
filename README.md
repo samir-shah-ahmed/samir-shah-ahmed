@@ -37,7 +37,7 @@
 <div align="center">
   <h3 align="center">📊  :</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samitesla&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-shah-ahmed&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 <!-- Spotify Section -->
