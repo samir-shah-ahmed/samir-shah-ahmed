@@ -20,7 +20,7 @@
 <div align="center">
   <p>
     🎓Computer Science and Engineering at UC Merced<br>
-    💻 Interested in ML, Deep Learning, and AGI research
+    💻 Interested in ML, Deep Learning, Hardware Engineering, and Research
   </p>
 </div>
 
